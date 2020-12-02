@@ -8,9 +8,9 @@
       "name": ".NET Core Launch (console)",
       "type": "coreclr",
       "request": "launch",
-      "program": "${workspaceFolder}/Advent.01/bin/Debug/net5.0/Advent.01.dll",
+      "program": "${workspaceFolder}/Advent.02/bin/Debug/net5.0/Advent.02.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/Advent.01",
+      "cwd": "${workspaceFolder}/Advent.02",
       "console": "internalConsole",
       "stopAtEntry": false
     },
